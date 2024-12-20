@@ -1,0 +1,16 @@
+# Ignorar node_modules
+node_modules/
+
+
+# Ignorar archivos de configuración sensible
+.env
+
+# Ignorar logs
+*.log
+
+# Ignorar temporales del sistema operativo
+.DS_Store
+
+# Ignorar otros archivos temporales
+*.tmp
+*.swp
